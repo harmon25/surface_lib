@@ -1,0 +1,22 @@
+{
+  "name": "surface_lib",
+  "version": "0.1.0",
+  "description": "Demo of a surface lib that includes some js hooks",
+  "license": "MIT",
+  "main": "./priv/surface_lib.js",
+  "author": "Doug W.",
+  "dependencies": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/harmon25/surface_lib.git"
+  },
+  "files": [
+    "README.md",
+    "LICENSE.md",
+    "package.json",
+    "priv/surface_lib.js",
+    "assets/js/surface_lib.js"
+  ]
+}
